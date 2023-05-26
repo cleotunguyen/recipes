@@ -1,0 +1,38 @@
+/* styles.css */
+
+* {
+    color: white;
+    background-color: #44000D;
+    font-family: "Futura", sans-serif
+}
+
+h1 {
+    color: #F9D276;
+    font-size: 30px
+}
+
+h2 {
+    color: #F6E1C3;
+    font-size: 26px
+}
+
+.section-title,
+.recipe-title {
+    text-align: center
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:500px;
+    width: auto;
+}
+
+.burrito-photo{
+    text-align: center;
+}

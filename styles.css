@@ -1,0 +1,31 @@
+/* styles.css */
+
+* {
+    color: white;
+    background-color: #44000D;
+    font-family: "Futura", sans-serif;
+    text-align: center
+}
+
+h1 {
+    color: #F9D276
+}
+
+h2 {
+    color: #F6E1C3
+}
+
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+img {
+    margin-top: 20px;
+    height:500px;
+    width: auto;
+}
+
+
+
